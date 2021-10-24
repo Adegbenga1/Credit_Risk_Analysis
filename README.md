@@ -8,11 +8,17 @@ the data using the Cluster Centroid algorithms combined with use a combinatorial
 approach of over- and undersampling using the SMOTEEN algorithms, we were able 
 to predict credit risks in loan disbursement.
 
-•	 Naive Random Oversampling acc score = 66.7%
+•	 Naive Random Oversampling 
+acc score = 66.7%
 ![image](https://user-images.githubusercontent.com/70987568/138615021-7682aa37-ecec-4397-851b-fb93dde911b9.png)
 
 •	SMOTE Oversampling acc score =63.6%
 ![image](https://user-images.githubusercontent.com/70987568/138615058-da00343c-2e78-4a7f-b5db-9a6b7365374d.png)
 
-•	Undersampling acc score =  52.2% 
+•	Undersampling 
+acc score =  52.2% 
 ![image](https://user-images.githubusercontent.com/70987568/138615123-01abc96e-f1ad-42f0-8750-14da31ede7d3.png)
+
+•	Combination (Over and Under) Sampling 
+acc score = 65.0%
+![image](https://user-images.githubusercontent.com/70987568/138617248-cded994d-8c8c-4e1b-bf38-0c8a2472e49e.png)
