@@ -22,3 +22,4 @@ acc score =  52.2%
 •	Combination (Over and Under) Sampling 
 acc score = 65.0%
 ![image](https://user-images.githubusercontent.com/70987568/138617248-cded994d-8c8c-4e1b-bf38-0c8a2472e49e.png)
+
