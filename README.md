@@ -36,3 +36,5 @@ acc score = 65.0%
 # Summary 
 combined use of Balanced Random Forest Classifier acc score and Easy Ensemble AdaBoost Classifier acc score showed 89.8 % accuracy scores with predcited high risk/Actual low risk of 1730. 
 Therefore it is recommended to use these prediction models for future analysis.
+
+
